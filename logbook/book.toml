@@ -1,0 +1,19 @@
+[book]
+language = "en"
+multilingual = false
+src = "src"
+title = "LogBook"
+authors = ["Sharad"]
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[output.html]
+mathjax-support = true
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+limit-results = 15
