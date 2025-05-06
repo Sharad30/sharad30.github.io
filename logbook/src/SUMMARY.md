@@ -3,7 +3,13 @@
 
 # LogBook
 
+* [2025 Week #19 (05may - 11may)](2025-week-19/index.md)
+* [2025 Week #18 (28apr - 04may)](2025-week-18/index.md)
+    - [segmentation-playground](2025-week-18/segmentation-playground/index.md)
+    - [book-reading](2025-week-18/book-reading/index.md)
 * [2025 Week #17 (21apr - 27apr)](2025-week-17/index.md)
+    - [segmentation-playground](2025-week-17/segmentation-playground/index.md)
+    - [book-reading](2025-week-17/book-reading/index.md)
 * [2025 Week #16 (14apr - 20apr)](2025-week-16/index.md)
     - [segmentation-playground](2025-week-16/segmentation-playground/index.md)
     - [book-reading](2025-week-16/book-reading/index.md)   
