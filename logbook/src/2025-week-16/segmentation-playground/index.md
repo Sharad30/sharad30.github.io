@@ -2,18 +2,9 @@
 
 https://github.com/soumendra/segmentation-playground
 
-
-# Experiment Results
-
-## 2. UNET Image Semantic Segmentation
-
-## Sample Visualization
-
-**The best performing model - epochs: 50, lr : 0.001, batch_size : 32**
-
-![Segmentation Inference 50 epochs](assets/unet_50_epochs_inference.png)
-
-**The best performing model - epochs: 200, lr : 0.001, batch_size : 32**
-
-![Segmentation Inference 200 epochs](assets/unet_200_epochs_inference.png)
-
+* Built an image segmentation pipeline (using `ultralytics`) to train yolov8 instance segmentation model.
+* Discovered something about `PASCAL VOC dataset`
+    - The original mask format is in color format, due to which a raw conversion to yolo format was not working. Explain it detail, in a small blog post.
+* After fixing the data format, ultralytics `tuner` was setup to be able to train experiemnts one after the another.
+    - Still need to run experiemtns for various combination of learning rate and batch_size
+* `wandb` was setup to log each experiments
