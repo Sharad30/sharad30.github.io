@@ -3,7 +3,10 @@
 
 # LogBook
 
+* [2025 Week #20 (12may - 18may)](2025-week-20/index.md)
+    - [dl-lab-notebooks](2025-week-20/dl-lab-notebooks/index.md)
 * [2025 Week #19 (05may - 11may)](2025-week-19/index.md)
+    - [book-reading](2025-week-19/book-reading/index.md)
 * [2025 Week #18 (28apr - 04may)](2025-week-18/index.md)
     - [segmentation-playground](2025-week-18/segmentation-playground/index.md)
     - [book-reading](2025-week-18/book-reading/index.md)
