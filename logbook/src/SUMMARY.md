@@ -3,7 +3,7 @@
 
 # LogBook
 
-* [2025 Week #23 (2jun - 8jun)](2025-week-22/index.md)
+* [2025 Week #23 (2jun - 8jun)](2025-week-23/index.md)
     - [OOT]()
 * [2025 Week #22 (26may - 1jun)](2025-week-22/index.md)
     - [dl-lab-notebooks](2025-week-20/dl-lab-notebooks/index.md)
