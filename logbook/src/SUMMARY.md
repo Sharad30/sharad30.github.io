@@ -3,6 +3,14 @@
 
 # LogBook
 
+* [2025 Week #23 (2jun - 8jun)](2025-week-22/index.md)
+    - OOT
+* [2025 Week #22 (26may - 1jun)](2025-week-22/index.md)
+    - [dl-lab-notebooks](2025-week-20/dl-lab-notebooks/index.md)
+        - [Vanishing Gradients in VGG19](2025-week-20/dl-lab-notebooks/vgg19.md)
+        - [ResNet50 Without Skip Connections](2025-week-20/dl-lab-notebooks/resnet50_without_skip.md)
+* [2025 Week #21 (19may - 25may)](2025-week-21/index.md)
+    - [book-reading](2025-week-21/book-reading/index.md)
 * [2025 Week #20 (12may - 18may)](2025-week-20/index.md)
     - [dl-lab-notebooks](2025-week-20/dl-lab-notebooks/index.md)
         - [Vanishing Gradients in VGG19](2025-week-20/dl-lab-notebooks/vgg19.md)
