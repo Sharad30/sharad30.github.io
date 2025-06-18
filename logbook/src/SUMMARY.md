@@ -4,8 +4,9 @@
 # LogBook
 
 * [2025 Week #24 (9jun - 15jun)](2025-week-24/index.md)
-    - [ResNet50 Without Skip Connections](2025-week-24/dl-lab-notebooks/resnet50_without_skip.md)
-    - [ResNet50 With Skip Connections](2025-week-24/dl-lab-notebooks/resnet50_with_skip.md)
+    - [dl-lab-notebooks](2025-week-24/dl-lab-notebooks/index.md)
+        - [ResNet50 Without Skip Connections](2025-week-24/dl-lab-notebooks/resnet50_without_skip.md)
+        - [ResNet50 With Skip Connections](2025-week-24/dl-lab-notebooks/resnet50_with_skip.md)
 * [2025 Week #23 (2jun - 8jun)](2025-week-23/index.md)
 * [2025 Week #22 (26may - 1jun)](2025-week-22/index.md)
     - [dl-lab-notebooks](2025-week-22/dl-lab-notebooks/index.md)
