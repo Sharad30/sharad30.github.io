@@ -206,6 +206,6 @@ create_log_hist_animation_matplotlib(epoch_gradients, layers, num_epochs=10, sav
 **Observations**
 
 - The graph shows how the distribution of gradient magnitudes (on a log scale) evolves across epochs for each layer.
-- As we can see the for each of the considered layers, the gradient magnitude lies between 1e-3 to 1, which is still on the higher side and the gradients haven't vanished.
-- This could be happening because VGG19 has 19 layers and it is still not deep enough for any of the layers to vanish just yet (keeping in mind that the above network was only trained for 10 epochs).
+- As we can see that for each of the considered layers, the gradient magnitude lies between 1e-3 to 1, which is still on the higher side and the gradients haven't vanished.
+- This could be happening because VGG19 has 19 layers and it is still not deep enough for any of the layer's gradients to vanish.
 - To further extend our experiment lets increase the number of layers in VGG19 and see if this behavior stays put.
