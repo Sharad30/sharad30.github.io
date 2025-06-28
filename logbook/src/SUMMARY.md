@@ -3,6 +3,12 @@
 
 # LogBook
 
+* [2025 Week #26 (23jun - 29jun)](2025-week-26/index.md)
+    - [dl-lab-notebooks](2025-week-26/dl-lab-notebooks/index.md)
+        - [Autoencoders](2025-week-26/dl-lab-notebooks/autoencoders.md)
+        - [CycleGAN](2025-week-26/dl-lab-notebooks/CycleGAN.md)
+        - [Visual Search Engine](2025-week-26/dl-lab-notebooks/visual_search_engine.md)
+* [2025 Week #25 (16jun - 22jun)](2025-week-25/index.md)
 * [2025 Week #24 (9jun - 15jun)](2025-week-24/index.md)
     - [dl-lab-notebooks](2025-week-24/dl-lab-notebooks/index.md)
         - [ResNet50 Without Skip Connections](2025-week-24/dl-lab-notebooks/resnet50_without_skip.md)
